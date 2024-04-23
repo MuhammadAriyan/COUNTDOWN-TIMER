@@ -1,0 +1,14 @@
+{
+  "name": "project-timer",
+  "version": "1.0.0",
+  "description": "let's count!",
+  "main": "index.js",
+  "bin":"./time.ts",
+  "type":"module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "aryan",
+  "license": "ISC"
+}
